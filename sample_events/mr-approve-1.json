@@ -1,0 +1,107 @@
+{
+    "object_kind": "merge_request",
+    "user": {
+        "name": "Sami Jaktholm",
+        "username": "sjakthol",
+        "avatar_url": "https://secure.gravatar.com/avatar/1f568cd72117540a71a0640c0fe052cd?s=80&d=identicon"
+    },
+    "project": {
+        "name": "tst",
+        "description": "",
+        "web_url": "https://gitlab.com/sjakthol/tst",
+        "avatar_url": null,
+        "git_ssh_url": "git@gitlab.com:sjakthol/tst.git",
+        "git_http_url": "https://gitlab.com/sjakthol/tst.git",
+        "namespace": "sjakthol",
+        "visibility_level": 0,
+        "path_with_namespace": "sjakthol/tst",
+        "default_branch": "master",
+        "homepage": "https://gitlab.com/sjakthol/tst",
+        "url": "git@gitlab.com:sjakthol/tst.git",
+        "ssh_url": "git@gitlab.com:sjakthol/tst.git",
+        "http_url": "https://gitlab.com/sjakthol/tst.git"
+    },
+    "object_attributes": {
+        "id": 12518601,
+        "target_branch": "master",
+        "source_branch": "tst2",
+        "source_project_id": 2033640,
+        "author_id": 785269,
+        "assignee_id": null,
+        "title": "Add more tests",
+        "created_at": "2016-11-19 10:47:21 UTC",
+        "updated_at": "2016-11-19 10:47:21 UTC",
+        "milestone_id": null,
+        "state": "opened",
+        "merge_status": "can_be_merged",
+        "target_project_id": 2033640,
+        "iid": 5,
+        "description": "This is a merge request that adds more tests to the codebase",
+        "position": 0,
+        "locked_at": null,
+        "updated_by_id": null,
+        "merge_error": null,
+        "merge_params": {
+            "force_remove_source_branch": "0"
+        },
+        "merge_when_build_succeeds": false,
+        "merge_user_id": null,
+        "merge_commit_sha": null,
+        "deleted_at": null,
+        "approvals_before_merge": null,
+        "rebase_commit_sha": null,
+        "in_progress_merge_commit_sha": null,
+        "lock_version": 0,
+        "source": {
+            "name": "tst",
+            "description": "",
+            "web_url": "https://gitlab.com/sjakthol/tst",
+            "avatar_url": null,
+            "git_ssh_url": "git@gitlab.com:sjakthol/tst.git",
+            "git_http_url": "https://gitlab.com/sjakthol/tst.git",
+            "namespace": "sjakthol",
+            "visibility_level": 0,
+            "path_with_namespace": "sjakthol/tst",
+            "default_branch": "master",
+            "homepage": "https://gitlab.com/sjakthol/tst",
+            "url": "git@gitlab.com:sjakthol/tst.git",
+            "ssh_url": "git@gitlab.com:sjakthol/tst.git",
+            "http_url": "https://gitlab.com/sjakthol/tst.git"
+        },
+        "target": {
+            "name": "tst",
+            "description": "",
+            "web_url": "https://gitlab.com/sjakthol/tst",
+            "avatar_url": null,
+            "git_ssh_url": "git@gitlab.com:sjakthol/tst.git",
+            "git_http_url": "https://gitlab.com/sjakthol/tst.git",
+            "namespace": "sjakthol",
+            "visibility_level": 0,
+            "path_with_namespace": "sjakthol/tst",
+            "default_branch": "master",
+            "homepage": "https://gitlab.com/sjakthol/tst",
+            "url": "git@gitlab.com:sjakthol/tst.git",
+            "ssh_url": "git@gitlab.com:sjakthol/tst.git",
+            "http_url": "https://gitlab.com/sjakthol/tst.git"
+        },
+        "last_commit": {
+            "id": "957eb6bb30cbdaac25bca4066151d5d70deaabc6",
+            "message": "more tests\n",
+            "timestamp": "2016-11-19T11:08:17+02:00",
+            "url": "https://gitlab.com/sjakthol/tst/commit/957eb6bb30cbdaac25bca4066151d5d70deaabc6",
+            "author": {
+                "name": "Sami Jaktholm",
+                "email": "sjakthol@outlook.com"
+            }
+        },
+        "work_in_progress": false,
+        "url": "https://gitlab.com/sjakthol/tst/merge_requests/5",
+        "action": "open"
+    },
+    "repository": {
+        "name": "tst",
+        "url": "git@gitlab.com:sjakthol/tst.git",
+        "description": "",
+        "homepage": "https://gitlab.com/sjakthol/tst"
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "gitlab-flowdock-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for posting GitLab events to Flowdock.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js | bunyan",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "gitlab",
+    "webhook",
+    "flowdock"
+  ],
+  "engines": {
+    "node": "5.12.0"
+  },
+  "author": "Sami Jaktholm <sjakthol@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bunyan": "^1.8.5",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2"
+  }
+}
